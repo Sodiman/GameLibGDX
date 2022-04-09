@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+		INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+		INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+		INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:6:5-45
+application
+ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:8:5-29:19
+	android:label
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:12:9-40
+activity#com.mygdx.game.glstart.GLBasicStarter
+ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:13:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:15:13-45
+	android:configChanges
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:17:13-107
+	android:name
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:14:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:20:27-74
+activity#com.mygdx.game.glstart.SuperJumper
+ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:23:9-25:74
+	android:screenOrientation
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:24:13-49
+	android:configChanges
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:23:19-54
+activity#com.mygdx.game.glstart.John
+ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:26:9-28:74
+	android:screenOrientation
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:27:13-50
+	android:configChanges
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:26:19-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:31:5-67
+	android:name
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml:31:22-65
+uses-sdk
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+		INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+		ADDED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml
+		INJECTED from C:\Users\Ody\Documents\NetBeansProjects\Study\testSuperJump\android\AndroidManifest.xml

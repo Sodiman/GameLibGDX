@@ -1,0 +1,4 @@
+#Tue Jan 22 18:24:00 ICT 2019
+base.0=C\:\\Users\\Ody\\Documents\\NetBeansProjects\\Study\\testSuperJump\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
